@@ -1,1 +1,1 @@
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+https://www.seancdavis.com/posts/three-ways-to-add-image-to-github-readme/
