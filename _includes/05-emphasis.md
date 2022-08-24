@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**C++**
+*Java*
+C
+
+-I **am** finally enjoying GitHub!-
