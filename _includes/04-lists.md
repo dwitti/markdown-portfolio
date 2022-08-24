@@ -1,3 +1,3 @@
-Sneakers
-Computer Science
-Food
+- Sneakers
+- Computer Science
+- Food
